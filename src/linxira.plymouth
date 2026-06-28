@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=CachyOS
-Description=Jimmac's spinner theme using the ACPI BGRT graphics as background with CachyOS branding
+Name=Linxira
+Description=Jimmac's spinner theme using the ACPI BGRT graphics as background with Linxira OS branding
 ModuleName=two-step
 
 [two-step]
 Font=Cantarell 12
 TitleFont=Cantarell Light 30
-ImageDir=/usr/share/plymouth/themes//cachyos
+ImageDir=/usr/share/plymouth/themes//linxira
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.382
 TitleHorizontalAlignment=.5
